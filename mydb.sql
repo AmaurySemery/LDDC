@@ -34,9 +34,6 @@ CREATE TABLE IF NOT EXISTS `lddc`.`Character` (
     ON UPDATE NO ACTION
 ) ENGINE = InnoDB;
 
-
-
-
 -- -----------------------------------------------------
 -- Table `lddc`.`Chronology`
 -- -----------------------------------------------------
