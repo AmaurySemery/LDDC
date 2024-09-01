@@ -1,13 +1,13 @@
-package com.lddc.demo;
+package com.lddc.lddc;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DemoApplication {
+public class LddcAppApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DemoApplication.class, args);
+		SpringApplication.run(LddcAppApplication.class, args);
 	}
 
 }
